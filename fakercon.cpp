@@ -231,7 +231,7 @@ const char *FakeRcon::GetDescription()
 
 const char *FakeRcon::GetName()
 {
-	return "Fake RCON";
+	return "Fake RCON 1";
 }
 
 const char *FakeRcon::GetURL()
